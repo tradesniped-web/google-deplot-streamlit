@@ -13,7 +13,7 @@ A streamlined web app that instantly converts chart images into downloadable CSV
 
 ## Screenshot
 
-[https://github.com/lesteroliver911/google-deplot-streamlit/blob/main/google-deplot-demo.png]
+(https://github.com/lesteroliver911/google-deplot-streamlit/blob/main/google-deplot-demo.png)
 
 ## Getting Started
 
