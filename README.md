@@ -2,7 +2,6 @@
 
 A streamlined web app that instantly converts chart images into downloadable CSV data using Google Deplot using Nvidia NIMS Inferencing.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://google-deplot-streamlit.streamlit.app/)
 [![GitHub](https://img.shields.io/github/license/lesteroliver911/google-deplot-streamlit)](https://github.com/lesteroliver911/google-deplot-streamlit/blob/main/LICENSE)
 
 ## Features
