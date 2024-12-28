@@ -1,4 +1,4 @@
-# Chart Data Extractor
+# Google DePlot - Chart Data Extractor
 
 A streamlined web app that instantly converts chart images into downloadable CSV data using Google Deplot using Nvidia NIMS Inferencing.
 
