@@ -13,14 +13,14 @@ A streamlined web app that instantly converts chart images into downloadable CSV
 
 ## Screenshot
 
-Visit the live demo at: [https://google-deplot-streamlit.streamlit.app/](https://google-deplot-streamlit.streamlit.app/)
+[https://google-deplot-streamlit.streamlit.app/](https://google-deplot-streamlit.streamlit.app/)
 
 ## Getting Started
 
 ### Prerequisites
 
 - Python 3.8 or higher
-- NVIDIA API key for accessing the DePlot model
+- NVIDIA API key for accessing the Google De-Plot model
 
 ### Installation
 
