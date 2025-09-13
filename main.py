@@ -11,7 +11,6 @@ st.set_page_config(
     page_title="Chart Data Extractor",
     layout="wide",
     initial_sidebar_state="expanded"
-    NVIDIA_API_KEY=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
 )
 
 # Custom CSS for smaller fonts and compact layout
