@@ -54,8 +54,8 @@ def process_chart_image(image_bytes):
         return None
 
     # Get API key from environment variables
-    api_key = os.getenv('-NVIDIA_API_KEY=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')
-    if not api_key: NVIDIA_API_KEY=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
+    api_key = os.getenv('NVIDIA_API_KEY')
+    if not api_key:
         st.error("NVIDIA_API_KEY not found in environment variables")
         return None
 
